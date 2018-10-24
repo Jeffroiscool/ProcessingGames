@@ -1,0 +1,11 @@
+color GREEN = color(0, 120, 0);
+color RED = color(200, 0, 0);
+color BLUE = color(0, 0, 120);
+color YELLOW = color(200, 200, 0);
+color ORANGE = color(255, 120, 0);
+color PURPLE = color(200, 0, 200);
+color BROWN = color(120, 60, 0);
+color BLACK = color(0);
+color WHITE = color(255);
+color NOTWHITE = color(200);
+color GREY = color(120);
